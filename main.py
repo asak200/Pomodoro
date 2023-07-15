@@ -1,6 +1,4 @@
 from tkinter import *
-import time
-
 
 # ---------------------------- CONSTANTS ------------------------------- #
 PINK = "#e2979c"
